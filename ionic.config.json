@@ -1,0 +1,7 @@
+{
+  "name": "latihansidemenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
